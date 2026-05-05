@@ -2,43 +2,43 @@
 
 ## Objective
 
-To understand and practice basic SQL operations including table creation and simple queries.
+To learn and implement basic SQL concepts such as table creation, data retrieval, and simple query operations.
 
 ## Tasks Performed
 
-1. Created tables using the provided SQL script
-2. Practiced basic SQL queries
+* Executed the given SQL script to create required tables
+* Practiced multiple SQL queries based on different scenarios
+* Verified query outputs using an online SQL platform
 
 ## Topics Covered
 
-- SELECT statement
-- WHERE clause
-- ORDER BY
-- Basic filtering
-- Aggregation
-- String Matching
-- Date Queries
-- JOIN
-- Nested and Correlated Queries
+* SELECT queries
+* WHERE clause for filtering
+* ORDER BY for sorting results
+* Aggregate functions (SUM, AVG, COUNT, MIN, MAX)
+* String pattern matching using LIKE
+* Date-based queries
+* Basic JOIN operations
+* Introduction to nested and correlated queries
 
 ## Platform Used
 
-- DB.Fiddle
+* DB Fiddle (Online SQL Compiler)
 
 ## Files Included
 
-- schema.sql → Table creation script
-- queries_sql.sql → SQL queries written for practice and each query output 
-- output.txt → Output results of some queries
+* schema.sql → Contains table creation statements
+* queries.sql → Includes all practice SQL queries
+* output.txt → Sample outputs of executed queries
 
 ## Learning Outcome
 
-Gained basic understanding of SQL queries and how to execute them using an online SQL environment.
+Understood how to write and execute SQL queries for retrieving and filtering data. Also gained clarity on how different SQL clauses work together.
 
 ## Challenges Faced
 
-Initially had some confusion in writing WHERE conditions, but resolved by practicing multiple queries.
+Faced some difficulty in understanding conditions in WHERE clause and using JOINs initially, but improved after practicing multiple examples.
 
 ## Conclusion
 
-Completed Day 1 tasks successfully and gained confidence in writing basic SQL queries.
+Successfully completed the Day 1 tasks and gained a good foundation in SQL basics. Looking forward to learning more advanced concepts.

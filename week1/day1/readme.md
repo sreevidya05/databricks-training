@@ -28,7 +28,7 @@ To learn and implement basic SQL concepts such as table creation, data retrieval
 ## Files Included
 
 * schema.sql → Contains table creation statements
-* queries.sql → Includes all practice SQL queries
+* queries_sql.sql → Includes all practice SQL queries
 * output.txt → Sample outputs of executed queries
 
 ## Learning Outcome

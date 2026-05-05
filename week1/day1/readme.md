@@ -20,11 +20,10 @@ To understand and practice basic SQL operations including table creation and sim
 - Date Queries
 - JOIN
 - Nested and Correlated Queries
-- 
 
 ## Platform Used
 
-- DB Fiddle
+- DB.Fiddle
 
 ## Files Included
 

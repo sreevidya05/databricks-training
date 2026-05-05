@@ -1,5 +1,6 @@
-📁 Project Structure
+## 📁 Project Structure
 
+```
 databricks-training/
 │
 ├── README.md
@@ -10,3 +11,4 @@ databricks-training/
         ├── queries.sql
         ├── output.txt
         └── README.md
+```

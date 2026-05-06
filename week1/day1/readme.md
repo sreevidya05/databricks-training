@@ -18,8 +18,6 @@ To learn and implement basic SQL concepts such as table creation, data retrieval
 * Aggregate functions (SUM, AVG, COUNT, MIN, MAX)
 * String pattern matching using LIKE
 * Date-based queries
-* Basic JOIN operations
-* Introduction to nested and correlated queries
 
 ## Platform Used
 

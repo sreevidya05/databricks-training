@@ -58,9 +58,9 @@ Used to sort records and display top results.
 
 This SQL practice helped in understanding:
 
-Data retrieval techniques
-Filtering records using conditions
-Aggregate functions and grouping
-Sorting and limiting records
-Using operators for advanced queries
-Pattern matching using LIKE
+- Data retrieval techniques
+- Filtering records using conditions
+- Aggregate functions and grouping
+- Sorting and limiting records
+- Using operators for advanced queries
+- Pattern matching using LIKE

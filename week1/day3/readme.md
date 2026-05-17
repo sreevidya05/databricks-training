@@ -1,4 +1,4 @@
-# Week 2 - SQL Joins Practice
+# Day 3 - SQL Joins Practice
 
 ## Aim
 
